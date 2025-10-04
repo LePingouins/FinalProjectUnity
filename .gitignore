@@ -1,0 +1,22 @@
+# Build and cache folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio files
+.vscode/
+*.csproj
+*.sln
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+
+# OS-specific
+.DS_Store
+Thumbs.db
